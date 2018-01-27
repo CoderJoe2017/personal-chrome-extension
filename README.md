@@ -1,1 +1,1 @@
-# personal-chrome-extension
+# Simple personal chrome extension using HTML5 and CSS3
